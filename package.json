@@ -1,0 +1,27 @@
+{
+  "name": "skeleton",
+  "version": "1.0.0",
+  "description": "A skeleton for MEAN application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/progdev-squirrel/MEAN-Skeleton.git"
+  },
+  "keywords": [
+    "mean",
+    "angular",
+    "nodejs",
+    "express",
+    "mongoose",
+    "skeleton"
+  ],
+  "author": "Roger Nordqvist <progdev.squirrel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/progdev-squirrel/MEAN-Skeleton/issues"
+  },
+  "homepage": "https://github.com/progdev-squirrel/MEAN-Skeleton"
+}
