@@ -2,3 +2,8 @@
   .jumbotron
     h1 MEAN Skeleton
     p Welcome to the MEAN Skeleton. This is just a placeholder for your site content.
+  .row
+    .col-md-6
+      div(ng-include="'/partials/featured-courses'")
+    .col-md-6
+      div(ng-include="'/partials/new-courses'")
